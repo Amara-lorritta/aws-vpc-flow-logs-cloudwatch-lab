@@ -23,8 +23,10 @@ IAM Role — permissions for VPC to publish logs
 AWS Management Console — configuration and validation
 
 ## **Architecture Diagram**
+<img width="1024" height="471" alt="image" src="https://github.com/user-attachments/assets/a228a0e7-89de-4a14-a01b-aeef8130ab3b" />
 
-## Architecture Summary
+
+ **Architecture Summary**
 
 Custom VPC: whizvpc (10.1.0.0/16)
 
